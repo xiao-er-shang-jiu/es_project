@@ -1,0 +1,8 @@
+server:
+  port: 80
+
+spring:
+  profiles:
+    active: dev
+
+# java -jar es_project-0.0.1-SNAPSHOT.jar --spring.profiles.active=prod

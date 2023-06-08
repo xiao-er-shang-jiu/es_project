@@ -1,0 +1,6 @@
+es:
+  uploadPath: "/root/xsong/es/data/images/"
+  pyPath: "/root/hshi/D2LV/feature_ext_es.py"
+  imagePath: "/root/hshi/D2LV/datasets/images/references/"
+  queryVectorTemplate: "/root/xsong/es/data/json/query_vector_template.json"
+  queryVectorKnnTemplate: "/root/xsong/es/data/json/query_vector_knn_template.json"

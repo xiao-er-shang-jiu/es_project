@@ -1,0 +1,6 @@
+es:
+  uploadPath: "D:/my_project/es_project/data/images/"
+  pyPath: "D:/my_project/es_project/data/py/test.py"
+  imagePath: "D:/my_project/es_project/data/images/res"
+  queryVectorTemplate: "D:/my_project/es_project/data/json/query_vector_template.json"
+  queryVectorKnnTemplate: "D:/my_project/es_project/data/json/query_vector_knn_template.json"
